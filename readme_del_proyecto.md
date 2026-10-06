@@ -1,12 +1,12 @@
-# 🚢 AIS Analytics Pro: Inteligencia de Flota Marítima
+# AIS Analytics Pro: Inteligencia de Flota Marítima
 
 Este repositorio contiene un panel de control interactivo (Dashboard) diseñado para analizar y visualizar datos del Sistema de Identificación Automática (AIS) de embarcaciones marítimas. La aplicación transforma datos de telemetría en bruto en inteligencia operativa procesable mediante visualizaciones dinámicas y físicas en tiempo real.
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Demostrar la capacidad de procesar bases de datos marítimas, limpiar anomalías de transmisión (como los clústeres de "Unknown Values") y desplegar una arquitectura de Business Intelligence (BI) de grado empresarial. La interfaz permite explorar la relación entre las dimensiones físicas de los buques y su comportamiento operativo.
 
-## ✨ Características Principales
+## Características Principales
 
 - **Filtros Analíticos Dinámicos:** Segmentación de la flota en tiempo real por tipo de buque, eslora (m) y velocidad sobre el fondo (SOG).
 - **Motor Gráfico Avanzado (Apache ECharts):**
@@ -22,7 +22,7 @@ Demostrar la capacidad de procesar bases de datos marítimas, limpiar anomalías
 - **Manipulación de Datos:** Pandas, NumPy
 - **Visualización:** `streamlit-echarts` (Apache ECharts)
 
-## 🚀 Instalación y Uso Local
+## Instalación y Uso Local
 
 1. **Clonar el repositorio:**
    ```bash

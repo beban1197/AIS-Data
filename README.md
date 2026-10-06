@@ -47,5 +47,5 @@ Demostrar la capacidad de procesar bases de datos marítimas, limpiar anomalías
    streamlit run dashboard_ais.py
    ```
 
-## 🧠 Insights Generados
+## Insights Generados
 El análisis de estos datos permite identificar cuellos de botella en las operaciones portuarias, perfilar el comportamiento por industria (Carga, Pesca, Servicios) y aislar fallas sistemáticas en la transmisión de transpondedores AIS de flotas específicas.
